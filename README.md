@@ -27,5 +27,19 @@ A deep learning project using Convolutional Neural Networks (CNNs) to classify i
 
 - Metrics: Accuracy, Confusion Matrix, Classification Report
 - Visualization with matplotlib
+# CNN-Based Deepfake Classification
+
+
+
+## 📊 Results
+
+### Confusion Matrix
+![Confusion Matrix](assets/confusion.PNG)
+
+### Training Curves
+![Training Curves](assets/curves.PNG)
+
+### Metric Summary
+![Metric Summary](assets/metrix.PNG)
 
 
