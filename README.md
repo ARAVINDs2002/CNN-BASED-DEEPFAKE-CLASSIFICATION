@@ -38,8 +38,10 @@ A deep learning project using Convolutional Neural Networks (CNNs) to classify i
 
 ### Training Curves
 ![Training Curves](assets/curves.PNG)
+![Training Curves](assets/val.PNG)
 
 ### Metric Summary
 ![Metric Summary](assets/metrix.PNG)
+
 
 
