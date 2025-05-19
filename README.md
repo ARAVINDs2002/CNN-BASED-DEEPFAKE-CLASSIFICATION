@@ -28,13 +28,4 @@ A deep learning project using Convolutional Neural Networks (CNNs) to classify i
 - Metrics: Accuracy, Confusion Matrix, Classification Report
 - Visualization with matplotlib
 
-## 🚀 How to Run
 
-```bash
-# Install dependencies
-pip install torch torchvision scikit-learn matplotlib
-
-# Place data in: /content/drive/MyDrive/data/frames/{real,fake}
-
-# Run the script
-python train.py
