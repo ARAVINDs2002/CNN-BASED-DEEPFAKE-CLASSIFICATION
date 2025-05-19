@@ -1,5 +1,4 @@
-# CNN-BASED-DEEPFAKE-CLASSIFICATION
-A CNN-based model for classifying images as real or deepfake. It uses extracted video frames to train a neural network that detects visual inconsistencies caused by manipulation, enabling accurate and automated deepfake detection.
+
 # CNN-Based Deepfake Classification
 
 A deep learning project using Convolutional Neural Networks (CNNs) to classify images as real or deepfake based on extracted video frames.
